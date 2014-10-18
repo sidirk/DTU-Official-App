@@ -1,0 +1,8 @@
+1. All the users should have an option of sending the push.
+2. Once a push is sent, the following model needs to work: 
+                            - The push reaches a specified set of people X or is stored in a location Y
+                            - X then analyzes the push / accesses Y
+                            - If X approves the push, X has a "method" to send the push
+                            - The push then reaches all the users
+3. The users should have an option to turn the push on /off. Also the user should be able to decide which push the user wants to see. 
+   So, push channels/categories need to be made.
